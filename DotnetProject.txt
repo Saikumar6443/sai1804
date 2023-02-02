@@ -1,0 +1,12 @@
+public class
+{
+static void Main(string[] args)
+{
+consolw.writeline("Saikumar Narani from Hyderabad");
+}
+{
+public void Display()
+{
+consolw.writeline("Dotnet development in infosys");
+}
+}
